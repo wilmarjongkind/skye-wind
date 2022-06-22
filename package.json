@@ -5,6 +5,7 @@
     "publisher": "wilmarj",
     "repository": "https://github.com/wilmarjongkind/skye-wind",
     "version": "0.1.0",
+    "icon": "https://github.com/wilmarjongkind/skye-wind/blob/master/skyewind.png",
     "engines": {
         "vscode": "^1.68.0"
     },

@@ -6,4 +6,9 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
-- Initial release
+## [1.0.0] - 2022-06-22
+### Added
+- Initial theme
+- Icon
+- License
+- Readme
