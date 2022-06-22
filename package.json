@@ -2,6 +2,8 @@
     "name": "skye-wind",
     "displayName": "skye-wind",
     "description": "A combination of Skye theme & the theme used for demonstrations in Tailwind videos, along with some additions.",
+    "publisher": "wilmarj",
+    "repository": "https://github.com/wilmarjongkind/skye-wind",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.68.0"
