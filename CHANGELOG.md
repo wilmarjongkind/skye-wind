@@ -6,7 +6,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
-## [1.2.0] - 2022-06-22
+## [1.3.0] - 2022-06-22
 ### Changed
 - Active tab colours.
 - Branding colours to be slightly brighter.
