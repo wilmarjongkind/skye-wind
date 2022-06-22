@@ -1,0 +1,21 @@
+{
+    "name": "skye-wind",
+    "displayName": "skye-wind",
+    "description": "A combination of Skye theme & the theme used for demonstrations in Tailwind videos, along with some additions.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.68.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "skye-wind",
+                "uiTheme": "vs-dark",
+                "path": "./themes/skye-wind-color-theme.json"
+            }
+        ]
+    }
+}
