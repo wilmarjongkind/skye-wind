@@ -18,6 +18,11 @@
                 "label": "skye-wind",
                 "uiTheme": "vs-dark",
                 "path": "./themes/skye-wind-color-theme.json"
+            },
+            {
+                "label": "skye-wind-light",
+                "uiTheme": "vs-dark",
+                "path": "./themes/skye-wind-light-color-theme.json"
             }
         ]
     }

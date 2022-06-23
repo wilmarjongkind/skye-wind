@@ -6,6 +6,11 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
+## [1.6.0] - 2022-06-23
+### Changed
+- Added a light theme.
+  
+
 ## [1.5.0] - 2022-06-23
 ### Changed
 - The syntax colours have been adjusted.
