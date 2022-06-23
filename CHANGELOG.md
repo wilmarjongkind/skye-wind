@@ -6,6 +6,11 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
+## [1.4.0] - 2022-06-23
+### Changed
+- The syntax colours have been adjusted.
+- Updated the showcase images.
+
 ## [1.3.0] - 2022-06-22
 ### Changed
 - Active tab colours.
