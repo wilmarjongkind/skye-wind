@@ -15,12 +15,12 @@
     "contributes": {
         "themes": [
             {
-                "label": "skye-wind",
+                "label": "Skye Wind Dark",
                 "uiTheme": "vs-dark",
                 "path": "./themes/skye-wind-color-theme.json"
             },
             {
-                "label": "skye-wind-light",
+                "label": "Skye Wind",
                 "uiTheme": "vs-dark",
                 "path": "./themes/skye-wind-light-color-theme.json"
             }
