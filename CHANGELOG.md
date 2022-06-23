@@ -6,6 +6,10 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
+## [1.5.0] - 2022-06-23
+### Changed
+- The syntax colours have been adjusted.
+  
 ## [1.4.0] - 2022-06-23
 ### Changed
 - The syntax colours have been adjusted.
