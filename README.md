@@ -6,11 +6,13 @@ All the colours that are used come from the [Tailwindcss default colour palette]
 This theme is based on [Skye](https://github.com/JamieBradders/Skye-VSCode-Theme). 
 
 ## Screenshots
-![Editor](https://raw.githubusercontent.com/wilmarjongkind/skye-wind/master/images/showcase/showcase-1.jpeg)
+![JavaScript](https://raw.githubusercontent.com/wilmarjongkind/skye-wind/master/images/animated/js.gif)
 
-![Terminal](https://raw.githubusercontent.com/wilmarjongkind/skye-wind/master/images/showcase/showcase-2.jpeg)
+![Popups](https://raw.githubusercontent.com/wilmarjongkind/skye-wind/master/images/animated/popup.gif)
 
-![Popups](https://raw.githubusercontent.com/wilmarjongkind/skye-wind/master/images/showcase/showcase-3.jpeg)
+![Suggestion Widget](https://raw.githubusercontent.com/wilmarjongkind/skye-wind/master/images/animated/suggest.gif)
+
+![TSX](https://raw.githubusercontent.com/wilmarjongkind/skye-wind/master/images/animated/tsx.gif)
 
 ## Suggestions
 See anything you dislike? Feel free to create an issue or a pull request!
